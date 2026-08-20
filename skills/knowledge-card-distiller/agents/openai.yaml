@@ -1,0 +1,5 @@
+interface:
+  display_name: "Knowledge Card Distiller"
+  short_description: "Turn articles into 5-8 focused knowledge cards"
+  default_prompt: "Use $knowledge-card-distiller to turn this article into concise, evidence-grounded knowledge cards."
+
